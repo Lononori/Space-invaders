@@ -1,0 +1,10 @@
+C:\Users\Lononori\source\repos\Space invaders\Space invaders\bin\Debug\Space invaders.exe.config
+C:\Users\Lononori\source\repos\Space invaders\Space invaders\bin\Debug\Space invaders.exe
+C:\Users\Lononori\source\repos\Space invaders\Space invaders\bin\Debug\Space invaders.pdb
+C:\Users\Lononori\source\repos\Space invaders\Space invaders\obj\Debug\Space invaders.csprojResolveAssemblyReference.cache
+C:\Users\Lononori\source\repos\Space invaders\Space invaders\obj\Debug\Space_invaders.Form1.resources
+C:\Users\Lononori\source\repos\Space invaders\Space invaders\obj\Debug\Space_invaders.Properties.Resources.resources
+C:\Users\Lononori\source\repos\Space invaders\Space invaders\obj\Debug\Space invaders.csproj.GenerateResource.Cache
+C:\Users\Lononori\source\repos\Space invaders\Space invaders\obj\Debug\Space invaders.csproj.CoreCompileInputs.cache
+C:\Users\Lononori\source\repos\Space invaders\Space invaders\obj\Debug\Space invaders.exe
+C:\Users\Lononori\source\repos\Space invaders\Space invaders\obj\Debug\Space invaders.pdb
